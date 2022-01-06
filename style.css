@@ -41,3 +41,43 @@ p{
 #center{
     text-align: center;
 }
+#three-column-margin{
+    margin: 3% 6%;
+}
+.three-column{
+    width: 27%;
+    float: left;
+    margin: 1% 1%;
+    padding: 2% 100%;
+}
+.three-column img{
+    width: 60px;
+    height: inherit;
+}
+#smallfont{
+    font-size: x-small;
+}
+.box1{
+    background: rgb(14, 235, 106);
+    padding: 10px 5px;
+    border-radius: 10px;
+    color: black
+    font-weight: 70;
+}
+.box2{
+    background: rgb(123, 224, 238);
+    padding: 10px 5px;
+    border-radius: 10px;
+    color: black;
+    font-weight: 70;
+}
+.box3{
+    background: rgb(230, 192, 157);
+    padding: 10px 5px;
+    border-radius: 10px;
+    color: black;
+    font-weight: 70;
+}
+#box-size{
+    margin: 5% 10%;
+}
