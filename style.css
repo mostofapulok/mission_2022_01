@@ -1,4 +1,43 @@
+
+section{
+    height: 350px;
+    padding-bottom: 50px;
+}
+.tow-column{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.tow-column img{
+    width: 300px;
+    height: inherit;
+}
+#mission{
+    border-left: 3px solid red;
+    padding-left: 10px;
+    font-size: 20px;
+    margin-top: 80px;
+    font-weight: 150px;
+}
+.color-orange{
+    color: orange;
+}
+p{
+    text-align: justify;
+}
 .inlineToBlock{
+    margin-top: 10px;
     display: block;
-    color: red;
+}
+.anchor-button{
+    text-decoration: none;
+    background: rgb(82, 82, 238);
+    padding: 5px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 70;
+}
+#center{
+    text-align: center;
 }
